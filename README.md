@@ -6,6 +6,7 @@
 
 I'm passionate about building intelligent applications using Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and Full Stack Development. I enjoy solving real-world problems through Python development, AI-powered solutions, and data-driven technologies.
 
+## 🚀 About Me
 - 🔭 Interested in Generative AI, AI/ML, Python, and Software Engineering.
 - 🌱 Exploring LangChain, LangGraph, AI Agents, RAG, and LLM Integration.
 - 💡 Experienced in developing AI-powered applications and REST APIs.
@@ -93,14 +94,6 @@ I'm passionate about building intelligent applications using Generative AI, Larg
 - Worked with PostgreSQL and database integration.
 - Developed frontend applications using HTML, CSS, and JavaScript.
 - Practiced REST API integration and full-stack application development.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand4035&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand4035&layout=compact&theme=tokyonight)
 
 ---
 
