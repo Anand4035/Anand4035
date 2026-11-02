@@ -73,11 +73,13 @@ I'm passionate about building intelligent applications using Generative AI, Larg
 ## 💼 Internship & Professional Experience
 
 ### Generative AI Internship
+**INNOMETICS RESARCH LABS | BENGALURU**
 - Developed RAG-based AI applications using LangChain and LangGraph.
 - Worked with LLM integration, vector databases, and semantic retrieval.
 - Built an AI-powered customer support assistant with Human-in-the-Loop capabilities.
 
-### Data Analyst Internship
+### Data Analyst Internship 
+**DYASHIN TECHNOSOFT PVT LMT | BENGALURU**
 - Performed data cleaning, preprocessing, and exploratory data analysis (EDA).
 - Analyzed datasets using Python, SQL, Pandas, and NumPy.
 - Created interactive dashboards and reports using Power BI.
