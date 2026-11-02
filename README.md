@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anand K
 
-### Generative AI Engineer | AI/ML Enthusiast | Python Developer | Data Analyst | Java Full Stack Developer 
+### Generative AI Engineer | AI/ML Enthusiast | Python Developer | Data Analyst | Software Developer 
 
 🎓 **2026 B.E. Graduate in Information Science and Engineering | CGPA: 8.5/10**
 
@@ -48,7 +48,6 @@ I'm passionate about building intelligent applications using Generative AI, Larg
 - Used LangChain and Groq LLM for contextual responses.
 - Supported connectivity, billing, SIM, and roaming-related queries.
 
-🔗 **Repository:** https://github.com/Anand4035/RAG-Based-Telecom-Support-Assistant
 
 ### 3. AI Shopping Agent
 - Developed an AI-powered shopping assistant using Python and Streamlit.
